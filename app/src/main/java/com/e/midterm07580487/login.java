@@ -37,7 +37,7 @@ public class login extends AppCompatActivity {
                         x = true;
 
                 }
-
+//
                 if (x) {
                     startActivity(intent);
                     handler.postDelayed(new Runnable() {
